@@ -10,7 +10,6 @@ Blink an LED on each pinout of the ATtiny84 using Arduino IDE
   To use, make sure you configure the ARduino software and hardware to use as an ISP.
   
   ATtiny Pin 1: 5V 
-  
   ATtiny Pin 2: myPin 0 
   
   ATtiny Pin 3: myPin 1 
